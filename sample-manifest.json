@@ -1,0 +1,12 @@
+{
+  "export_job_id": "17667a46-3df5-4261-935b-5ec17736aacf",
+  "id_short": 202138,
+  "published_at": "2026-04-18T07:35:28Z",
+  "repo_name": "all-restaurants-in-las-vegas-nevada-us-sample-202138",
+  "sample_asset_name": "beamstation_202138_restaurants-us-nv_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/202138/beamstation_202138_restaurants-us-nv_SAMPLE_DIST.csv",
+  "sample_records": 359,
+  "sample_sha256": "43ff4908c6308ce02a6d68dfd6812a4b04b6781f044255e75c54cd5a1098a1b1",
+  "sample_size_bytes": 1345111,
+  "total_records": 3591
+}
