@@ -1,6 +1,6 @@
 # All Restaurants in Las Vegas, Nevada, US
 
-> Free BeamStation sample export with 359 rows and masked direct-contact fields.
+> Free BeamStation sample export with 274 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `202138` |
 | Location | Las Vegas |
 | Category | Restaurants |
-| Full dataset size | 3,591 records |
-| Free sample size | 359 records (10.0%) |
-| Last export | 2026-04-14T19:33:33.682303+00:00 |
+| Full dataset size | 2,745 records |
+| Free sample size | 274 records (9.98%) |
+| Last export | 2026-04-21T21:35:21.005304+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-las-vegas-nevada-us-sample-202138/releases/download/sample-latest/beamstation_202138_restaurants-us-nv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
